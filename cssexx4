@@ -1,0 +1,39 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    box-sizing: border-box ;
+    margin: 0;
+    padding: 0;
+}
+h1{
+      width:10px;
+         height: 18px;
+            background: #ff6600;
+            display: inline-block;
+            margin-right: 15px;
+}
+
+.Hni-e{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+    padding: 10px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+.content{
+    width: 340px;
+    border: 1px solid #ddd;
+ border-radius: 8px;
+background: white;
+ padding: 10px;
+
+}
+img{
+    border-radius: 10px;
+}
