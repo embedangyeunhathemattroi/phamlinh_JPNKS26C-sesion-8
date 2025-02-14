@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.description {
+            font-size: 14px;
+            color: #333;
+        }
+        h4{
+            font-weight: bold;
+            margin-top: 0;'
+        }
+
+img{
+    border-radius: 5;
+}
